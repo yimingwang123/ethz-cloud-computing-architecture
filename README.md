@@ -1,1 +1,1 @@
-# ethz-cloud-computing-architecture
+# Cloud Computing Architecture Project
