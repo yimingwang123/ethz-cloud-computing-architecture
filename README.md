@@ -5,3 +5,4 @@ Goal of these projects is to build scheduler for latency-sensitive and batch app
 
 ### **Important Note:**
 I only uploaded the **python-related** project work. 
+Main skills covered by these projects are scheduler design in python and create plots in python.
